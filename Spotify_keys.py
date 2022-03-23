@@ -1,0 +1,3 @@
+CLIENT_ID = "09e9b9faeae2475fbd26b3aa8bdeb0f3"
+CLIENT_SECRET = "5bd2825167824ce2968c397abd41159c"
+CLIENT_REDIRECT = "http://localhost/"
